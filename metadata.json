@@ -1,0 +1,6 @@
+{
+  "name": "Car Price Predictor (CRISP-DM)",
+  "description": "Prediksi harga mobil menggunakan metodologi CRISP-DM dan algoritma K-Nearest Neighbors berdasarkan data historis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
